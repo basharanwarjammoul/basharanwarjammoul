@@ -1,16 +1,45 @@
-## Hi there 👋
+# 👋 Hi, I'm Bashar Anwar Jammoul
 
-<!--
-**basharanwarjammoul/basharanwarjammoul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## AI / Machine Learning Engineer
 
-Here are some ideas to get you started:
+I'm an AI / Machine Learning Engineer passionate about building intelligent solutions using Python, Machine Learning, and Deep Learning.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About Me
+
+- 🔭 Currently working as an AI & Python Instructor at Logiscool UAE.
+- 🤖 Experienced in Machine Learning, Deep Learning, Computer Vision, NLP, and Time-Series Forecasting.
+- 🧠 Building AI applications using TensorFlow, Keras, and Scikit-learn.
+- 🌱 Continuously learning and expanding my expertise in Artificial Intelligence.
+- 📍 Based in Dubai, United Arab Emirates.
+
+---
+
+## 💻 Tech Stack
+
+- Python
+- TensorFlow
+- Keras
+- Scikit-learn
+- Pandas
+- NumPy
+- Matplotlib
+- OpenCV
+- SQL
+- Git
+- AWS
+
+---
+
+## 🚀 Featured Projects
+
+- Face Recognition using CNN
+- Netflix Stock Price Prediction using LSTM
+- Automatic Text Generation
+- Machine Learning Classification Models
+- Natural Language Processing (NLP)
+
+---
+
+## 📫 Connect with Me
+
+- LinkedIn: https://linkedin.com/in/bashar-jammoul
